@@ -80,10 +80,11 @@ Você pode ultilizar os prompts acima, com nas ferramentas recomendadas para ger
 <p>
 
 ---
+<p align="center">
+<a Feito por [Caio Ramos](https://github.com/CaiorrRamos) 👨🏻‍💻>
+</p>
 
-Feito por [Caio Ramos](https://github.com/CaiorrRamos) 👨🏻‍💻
-
-
+---
  # AI-Powered eBook Project | EN 🌐
 
 > 🚧 Note: This project is still in progress and will be improved soon.
