@@ -11,7 +11,7 @@
 <p align="center">
 <img 
     src="cover2.png"
-    width="400"  
+    width="1080"  
 />
 </p>
 
@@ -19,7 +19,7 @@
 
  > ℹ️ **NOTE:** Este é um projeto desenvolvido durante o Bootcamp **"Java and AI in Europe"** promovido pela [DIO](https://dio.me). O ebook ainda **não está 100% finalizado** e será aprimorado nas próximas semanas.
 
-Este repositório tem como objetivo compartilhar um eBook digital criado com o apoio de ferramentas de Inteligência Artificial. Todo o conteúdo textual e visual foi desenvolvido a partir de prompts bem elaborados, que estão listados abaixo para quem quiser reproduzir ou adaptar a experiência.
+Este repositório tem como objetivo compartilhar meu projeto de um eBook digital desenvolvido com o apoio de ferramentas de Inteligência Artificial, durante minha jornada de aprendizagem. Todo o conteúdo textual e visual foi desenvolvido a partir de prompts bem elaborados, sendo alguns deles listados abaixo para quem quiser reproduzir ou adaptar a experiência.
 
 📕<a href="LINK_PARA_SEU_PDF" title="Ver PDF">Clique aqui para ler o ebook</a>
 
@@ -52,14 +52,10 @@ Microsoft Copilot：
 - Imagens originais via Microsoft Copilot
 - Ebook diagramado com PowerPoint
 
-## 📚 Estrutura do Repositório
-
-- 📁 `assets` → imagens e recursos visuais
-- 📁 `output` → versões geradas do ebook em PDF
 
 ## 🤔 Como Posso fazer também?
 
-Você pode ultilizar os prompts acima, com nas ferramentas recomendadas para gerar os textos e imagens. Em seguida, utilize uma ferramenta de diagramação como PowerPoint, Google Slides ou LibreOffice para montar seu ebook.
+Você pode ultilizar os prompts acima, com nas ferramentas recomendadas para gerar os textos e imagens. Em seguida, utilize uma ferramenta de diagramação de sua preferencia pode ser o PowerPoint, Google Slides ou LibreOffice para montar seu ebook.
 
 ## 👨‍💻 Autor
 
