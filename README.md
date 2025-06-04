@@ -29,7 +29,7 @@ Este repositório tem como objetivo compartilhar um eBook digital criado com o a
 - [MidJourney](https://www.midjourney.com/app/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-## 🧠 Prompts utilizados
+## 🧠 Prompts usadod durante o projeto:
 
 
 ChatGPT：
@@ -40,7 +40,7 @@ ChatGPT：
 | conteúdo | Escreva um texto introdutório de um ebook com foco em Java aplicado à IA, com linguagem acessível para quem está começando. Traga exemplos práticos e reais de como integrar bibliotecas de IA com Java. Use títulos claros e objetivos por seção.                          |
 
 
-Midjourney：
+Microsoft Copilot：
 
 |  Ação  | prompt                                                                                      |
 | :----: | ------------------------------------------------------------------------------------------- |
@@ -49,7 +49,7 @@ Midjourney：
 ## ✨ Features
 
 - Conteúdo textual gerado com ChatGPT
-- Imagens originais via MidJourney
+- Imagens originais via Microsoft Copilot
 - Ebook diagramado com PowerPoint
 
 ## 📚 Estrutura do Repositório
@@ -85,4 +85,4 @@ Utilize os prompts acima nas ferramentas recomendadas para gerar os textos e ima
 
 ---
 
-⌨️ com 💜 por [Caio Ramos](https://github.com/CaiorrRamos)
+Feito por [Caio Ramos](https://github.com/CaiorrRamos) 👨🏻‍💻
