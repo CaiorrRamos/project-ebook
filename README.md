@@ -21,7 +21,7 @@
 
 Este repositório tem como objetivo compartilhar meu projeto de um eBook digital desenvolvido com o apoio de ferramentas de Inteligência Artificial, durante minha jornada de aprendizagem. Todo o conteúdo textual e visual foi desenvolvido a partir de prompts bem elaborados, sendo alguns deles listados abaixo para quem quiser reproduzir ou adaptar a experiência.
 
-📕<a href="LINK_PARA_SEU_PDF" title="Ver PDF">Clique aqui para ler o ebook</a>
+📕<a href="output/ebook-java-ai.pdf" title="Ver PDF">Clique aqui para ler o ebook</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
