@@ -44,7 +44,7 @@ Microsoft Copilot：
 
 |  Ação  | prompt                                                                                      |
 | :----: | ------------------------------------------------------------------------------------------- |
-| capa   | Futuristic developer coding with neural interfaces, cinematic lighting, cyberpunk style --v 5.1 |
+| capa   | Futuristic developer coding with neural interfaces, hero tematic, HQ style --v 5.1 |
 
 ## ✨ Features
 
