@@ -15,7 +15,7 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto EBOOK Gerado por I.A.s | PT-BR 🇧🇷
 
  > ℹ️ **NOTE:** Este é um projeto desenvolvido durante o Bootcamp **"Java and AI in Europe"** promovido pela [DIO](https://dio.me). O ebook ainda **não está 100% finalizado** e será aprimorado nas próximas semanas.
 
@@ -82,3 +82,27 @@ Você pode ultilizar os prompts acima, com nas ferramentas recomendadas para ger
 ---
 
 Feito por [Caio Ramos](https://github.com/CaiorrRamos) 👨🏻‍💻
+
+
+ # AI-Powered eBook Project | EN 🌐
+
+> 🚧 Note: This project is still in progress and will be improved soon.
+
+This repository contains an eBook created using AI tools during the **"Java and AI in Europe" Bootcamp** by [DIO](https://dio.me).  
+The purpose of the project is to demonstrate how artificial intelligence can assist in generating educational and technical content for developers.
+
+The eBook explores the intersection of **Java programming and Artificial Intelligence**, with all content (text and images) generated through AI tools.
+
+## 🛠️ Tools Used
+
+- **ChatGPT** – for generating text content and coding examples  
+- **Microsoft Copilot** – for producing illustrative visuals  
+- **PowerPoint** – for organizing and designing the final eBook layout
+
+## 📖 Read the eBook
+
+[Click here to read the PDF](LINK_TO_YOUR_PDF)
+
+---
+
+Made by [Caio Ramos](https://github.com/CaiorrRamos)
