@@ -57,9 +57,9 @@ Microsoft Copilot：
 - 📁 `assets` → imagens e recursos visuais
 - 📁 `output` → versões geradas do ebook em PDF
 
-## 🛠️ Como recriar
+## 🤔 Como Posso fazer também?
 
-Utilize os prompts acima nas ferramentas recomendadas para gerar os textos e imagens. Em seguida, utilize uma ferramenta de diagramação como PowerPoint, Google Slides ou LibreOffice para montar seu ebook.
+Você pode ultilizar os prompts acima, com nas ferramentas recomendadas para gerar os textos e imagens. Em seguida, utilize uma ferramenta de diagramação como PowerPoint, Google Slides ou LibreOffice para montar seu ebook.
 
 ## 👨‍💻 Autor
 
